@@ -60,7 +60,7 @@ Export a test case to a zip file by clicking the **Export** icon on the test cas
 
 Click the ***Settings*** icon to open the test case settings panel which enables you to specify options for the selected test.
 
-**History record storage** allows you to specify the number of historical test results you wish to retain. This can be specified either by the number of days or the number of runs.
+**History record storage** allows you to specify the number of historical test results you wish to retain. This can be specified either by the number of days or the number of runs. By default job runs and related artifcats are preserved forever.
 
 **Schedule** allows you to specify a time and date when you want your test case job to be automatically executed and (optionally) the frequency with which the job should be re-executed.
 
