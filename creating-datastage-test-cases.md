@@ -32,7 +32,7 @@ To edit a test case from the DataStage canvas, go to an existing or new flow and
 
 ## Creating test data
 
-There are a number of ways you can derive data for your test case.  Start by opening you test case and from the Data tab selecting the test data file you wish to edit.
+There are a number of ways you can derive data for your test case.  Start by opening your test case and from the Data tab selecting the test data file you wish to edit.
 
 ### Capture test data
 
