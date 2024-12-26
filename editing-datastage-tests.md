@@ -9,7 +9,7 @@ This will bring you to the test case editor which allows you to inspect and modi
 
 ## Editing the test case specification
 
-Selecting **Specification** from the **Data** tab od the test data editor will display the test case's specification.
+Selecting **Specification** from the **Data** tab on the test data editor will display the test case's specification.
 
 For a detailed explanation of the format of this JSON specification and the options available for controlling how your test case behaves see the [Test specification format](test-specification-format.md) page.
 
